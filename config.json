@@ -1,7 +1,7 @@
 {
     "credentials": {
-        "tenantName": "fabrikamb2c",
-        "clientID": "93733604-cc77-4a3c-a604-87084dd55348"
+        "tenantName": "a9oconsulting",
+        "clientID": "5cabd791-d0fa-40d7-b867-4417bab71029"
     },
     "policies": {
         "policyName": "B2C_1_susi"
